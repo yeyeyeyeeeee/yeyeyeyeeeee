@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛸 I'm 荞麦(yeyeyeyeeeee)
-🚅 I’m currently interested in NLP, RL, C++, 
+
+🚅 I’m currently interested in NLP, RL, C++
+
 🌱 I’m currently learning Communication University of China
+
